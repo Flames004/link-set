@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653895373885",
+    "project_id": "linkset-bda5e",
+    "storage_bucket": "linkset-bda5e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653895373885:android:f71f7f3eaed31d24b3c654",
+        "android_client_info": {
+          "package_name": "com.linkset.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtA0-J27jN7n_r-QO17beLLS82MpRjdW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
